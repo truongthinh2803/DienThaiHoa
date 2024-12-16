@@ -1,0 +1,49 @@
+# Blender 4.1.1 MTL File: 'None'
+# www.blender.org
+
+newmtl Part19Mtl
+Ns 255.000015
+Ka 1.000000 1.000000 1.000000
+Kd 0.124741 0.113921 0.121986
+Ks 0.047615 0.047615 0.047615
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 0.501961
+illum 9
+map_refl D:/RB/Part19_spec.png
+
+newmtl Part1Mtl
+Ka 1.000000 1.000000 1.000000
+Kd 0.867136 0.487765 0.035614
+Ks 0.025447 0.025447 0.025447
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Ns D:/RB/Part1_spec.png
+map_refl D:/RB/Part1_diff.png
+map_d D:/RB/Part1_diff.png
+map_Bump D:/RB/Part1_nmap.png
+
+newmtl Part3Mtl
+Ka 1.000000 1.000000 1.000000
+Kd 0.420508 0.000638 0.000057
+Ks 0.007708 0.007708 0.007708
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Ns D:/RB/Part1_spec.png
+map_refl D:/RB/Part1_diff.png
+map_d D:/RB/Part1_diff.png
+map_Bump D:/RB/Part1_nmap.png
+
+newmtl Part6Mtl
+Ka 1.000000 1.000000 1.000000
+Kd 0.358654 0.113921 0.031551
+Ks 0.009226 0.009226 0.009226
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Ns D:/RB/Part1_spec.png
+map_refl D:/RB/Part1_diff.png
+map_d D:/RB/Part1_diff.png
+map_Bump D:/RB/Part1_nmap.png

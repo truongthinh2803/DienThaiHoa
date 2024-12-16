@@ -1,0 +1,360 @@
+# Blender 4.2.1 LTS MTL File: 'DTH.blend'
+# www.blender.org
+
+newmtl Chinesechandelier1Mtl.003
+Ka 1.000000 1.000000 1.000000
+Kd 0.180144 0.000000 0.000000
+Ks 0.004003 0.004003 0.004003
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Ns D:/Model/RB/Roof1_spec.png
+map_refl D:/Model/RB/Roof1_diff.png
+map_d D:/Model/RB/Roof1_diff.png
+map_Bump D:/Model/RB/Roof1_nmap.png
+
+newmtl Coneslopesmooth1Mtl.003
+Ka 1.000000 1.000000 1.000000
+Kd 0.373615 0.368591 0.383775
+Ks 0.148659 0.148659 0.148659
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Ns D:/Model/RB/Part3882_spec.png
+map_Bump D:/Model/RB/Part3882_nmap.png
+
+newmtl Holecylinder1Mtl.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.180144 0.000000 0.000000
+Ks 0.023784 0.023784 0.023784
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl Part12068Mtl.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.141980 0.047776 0.016988
+Ks 0.004324 0.004324 0.004324
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl Part12071Mtl.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.940601 0.701169 0.154152
+Ks 0.037562 0.037562 0.037562
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl Part12073Mtl.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.789314 0.781751 0.744530
+Ks 0.048431 0.048431 0.048431
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl Part17278Mtl.003
+Ka 1.000000 1.000000 1.000000
+Kd 0.373615 0.368591 0.383775
+Ks 0.016191 0.016191 0.016191
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Ns D:/Model/RB/Part3921_spec.png
+map_refl D:/Model/RB/Part3921_diff.png
+map_d D:/Model/RB/Part3921_diff.png
+map_Bump D:/Model/RB/Part3921_nmap.png
+
+newmtl Part17846Mtl.003
+Ka 1.000000 1.000000 1.000000
+Kd 0.915750 0.618686 0.025371
+Ks 0.346624 0.346624 0.346624
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Ns D:/Model/RB/Part17846_spec.png
+map_refl D:/Model/RB/Part17846_diff.png
+map_d D:/Model/RB/Part17846_diff.png
+map_Bump D:/Model/RB/Part17846_nmap.png
+
+newmtl Part1Mtl.003
+Ka 1.000000 1.000000 1.000000
+Kd 0.420508 0.000638 0.000057
+Ks 0.007708 0.007708 0.007708
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Ns D:/Model/RB/Part1_spec.png
+map_refl D:/Model/RB/Part1_diff.png
+map_d D:/Model/RB/Part1_diff.png
+map_Bump D:/Model/RB/Part1_nmap.png
+
+newmtl Part21709Mtl.003
+Ka 1.000000 1.000000 1.000000
+Kd 0.766744 0.334458 0.047776
+Ks 0.015019 0.015019 0.015019
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Ns D:/Model/RB/Part21709_spec.png
+map_refl D:/Model/RB/Part21709_diff.png
+map_d D:/Model/RB/Part21709_diff.png
+map_Bump D:/Model/RB/Part21709_nmap.png
+
+newmtl Part24801Mtl.003
+Ka 1.000000 1.000000 1.000000
+Kd 0.867136 0.487765 0.035614
+Ks 0.309003 0.309003 0.309003
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Ns D:/Model/RB/Part17846_spec.png
+map_refl D:/Model/RB/Part17846_diff.png
+map_d D:/Model/RB/Part17846_diff.png
+map_Bump D:/Model/RB/Part17846_nmap.png
+
+newmtl Part2Mtl.003
+Ka 1.000000 1.000000 1.000000
+Kd 0.373615 0.368591 0.383775
+Ks 0.013247 0.013247 0.013247
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Ns D:/Model/RB/Part2_spec.png
+map_refl D:/Model/RB/Part2_diff.png
+map_d D:/Model/RB/Part2_diff.png
+map_Bump D:/Model/RB/Part2_nmap.png
+
+newmtl Part3864Mtl.003
+Ka 1.000000 1.000000 1.000000
+Kd 0.867136 0.487765 0.035614
+Ks 0.025447 0.025447 0.025447
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Ns D:/Model/RB/Part1_spec.png
+map_refl D:/Model/RB/Part1_diff.png
+map_d D:/Model/RB/Part1_diff.png
+map_Bump D:/Model/RB/Part1_nmap.png
+
+newmtl Part3869Mtl.003
+Ka 1.000000 1.000000 1.000000
+Kd 0.358654 0.113921 0.031551
+Ks 0.009226 0.009226 0.009226
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Ns D:/Model/RB/Part1_spec.png
+map_refl D:/Model/RB/Part1_diff.png
+map_d D:/Model/RB/Part1_diff.png
+map_Bump D:/Model/RB/Part1_nmap.png
+
+newmtl Part3882Mtl.003
+Ka 1.000000 1.000000 1.000000
+Kd 0.124741 0.113921 0.121986
+Ks 0.047615 0.047615 0.047615
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 0.501961
+illum 9
+map_Ns D:/Model/RB/Part3882_spec.png
+map_Bump D:/Model/RB/Part3882_nmap.png
+
+newmtl Part3921Mtl.003
+Ka 1.000000 1.000000 1.000000
+Kd 0.598942 0.605484 0.645555
+Ks 0.026601 0.026601 0.026601
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Ns D:/Model/RB/Part3921_spec.png
+map_refl D:/Model/RB/Part3921_diff.png
+map_d D:/Model/RB/Part3921_diff.png
+map_Bump D:/Model/RB/Part3921_nmap.png
+
+newmtl Part4696Mtl.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.180144 0.000000 0.000000
+Ks 0.003768 0.003768 0.003768
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl Part4699Mtl.003
+Ka 1.000000 1.000000 1.000000
+Kd 0.915750 0.618686 0.025371
+Ks 0.020390 0.020390 0.020390
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Ns D:/Model/RB/Part4699_spec.png
+map_refl D:/Model/RB/Part4699_diff.png
+map_d D:/Model/RB/Part4699_diff.png
+map_Bump D:/Model/RB/Part4699_nmap.png
+
+newmtl Part4757Mtl.003
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 0.612066 0.325037
+Ks 0.035450 0.035450 0.035450
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Ns D:/Model/RB/Part1_spec.png
+map_refl D:/Model/RB/Part1_diff.png
+map_d D:/Model/RB/Part1_diff.png
+map_Bump D:/Model/RB/Part1_nmap.png
+
+newmtl Part6317Mtl.003
+Ka 1.000000 1.000000 1.000000
+Kd 0.082414 0.204710 0.431340
+Ks 0.009392 0.009392 0.009392
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Ns D:/Model/RB/Part4699_spec.png
+map_refl D:/Model/RB/Part4699_diff.png
+map_d D:/Model/RB/Part4699_diff.png
+map_Bump D:/Model/RB/Part4699_nmap.png
+
+newmtl Part6318Mtl.003
+Ka 1.000000 1.000000 1.000000
+Kd 0.103634 0.329729 0.069727
+Ks 0.006576 0.006576 0.006576
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Ns D:/Model/RB/Part4699_spec.png
+map_refl D:/Model/RB/Part4699_diff.png
+map_d D:/Model/RB/Part4699_diff.png
+map_Bump D:/Model/RB/Part4699_nmap.png
+
+newmtl Part6319Mtl.003
+Ka 1.000000 1.000000 1.000000
+Kd 0.940601 0.940601 0.940601
+Ks 0.036886 0.036886 0.036886
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Ns D:/Model/RB/Part4699_spec.png
+map_refl D:/Model/RB/Part4699_diff.png
+map_d D:/Model/RB/Part4699_diff.png
+map_Bump D:/Model/RB/Part4699_nmap.png
+
+newmtl Part6320Mtl.003
+Ka 1.000000 1.000000 1.000000
+Kd 0.523443 0.139022 0.121986
+Ks 0.010254 0.010254 0.010254
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Ns D:/Model/RB/Part4699_spec.png
+map_refl D:/Model/RB/Part4699_diff.png
+map_d D:/Model/RB/Part4699_diff.png
+map_Bump D:/Model/RB/Part4699_nmap.png
+
+newmtl Part6321Mtl.003
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.010398 0.116576
+Ks 0.001660 0.001660 0.001660
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Ns D:/Model/RB/Part4699_spec.png
+map_refl D:/Model/RB/Part4699_diff.png
+map_d D:/Model/RB/Part4699_diff.png
+map_Bump D:/Model/RB/Part4699_nmap.png
+
+newmtl Part6335Mtl.003
+Ka 1.000000 1.000000 1.000000
+Kd 0.766744 0.334458 0.047776
+Ks 0.015019 0.015019 0.015019
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Ns D:/Model/RB/Part4699_spec.png
+map_refl D:/Model/RB/Part4699_diff.png
+map_d D:/Model/RB/Part4699_diff.png
+map_Bump D:/Model/RB/Part4699_nmap.png
+
+newmtl Part6354Mtl.003
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 0.442323 0.000000
+Ks 0.018854 0.018854 0.018854
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Ns D:/Model/RB/Part4699_spec.png
+map_refl D:/Model/RB/Part4699_diff.png
+map_d D:/Model/RB/Part4699_diff.png
+map_Bump D:/Model/RB/Part4699_nmap.png
+
+newmtl Part65556Mtl
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.373615 0.368591 0.383775
+Ks 0.023550 0.023550 0.023550
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl Part66330Mtl
+Ka 1.000000 1.000000 1.000000
+Kd 0.612066 0.275833 0.141980
+Ks 0.018847 0.018847 0.018847
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Ns D:/Model/RB/Part1_spec.png
+map_refl D:/Model/RB/Part1_diff.png
+map_d D:/Model/RB/Part1_diff.png
+map_Bump D:/Model/RB/Part1_nmap.png
+
+newmtl Part9466Mtl.003
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 0.442323 0.000000
+Ks 0.026395 0.026395 0.026395
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Ns D:/Model/RB/Part1_spec.png
+map_refl D:/Model/RB/Part1_diff.png
+map_d D:/Model/RB/Part1_diff.png
+map_Bump D:/Model/RB/Part1_nmap.png
+
+newmtl Roof1Mtl.003
+Ka 1.000000 1.000000 1.000000
+Kd 0.867136 0.487765 0.035614
+Ks 0.030900 0.030900 0.030900
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Ns D:/Model/RB/Roof1_spec.png
+map_refl D:/Model/RB/Roof1_diff.png
+map_d D:/Model/RB/Roof1_diff.png
+map_Bump D:/Model/RB/Roof1_nmap.png
+
+newmtl Shape11Mtl.003
+Ka 1.000000 1.000000 1.000000
+Kd 0.180144 0.000000 0.000000
+Ks 0.003297 0.003297 0.003297
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Ns D:/Model/RB/Part1_spec.png
+map_refl D:/Model/RB/Part1_diff.png
+map_d D:/Model/RB/Part1_diff.png
+map_Bump D:/Model/RB/Part1_nmap.png
